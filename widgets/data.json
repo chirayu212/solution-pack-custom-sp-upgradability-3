@@ -1,7 +1,7 @@
 [
     {
-        "name": "setupGuide",
-        "title": "Setup Guide",
+        "name": "incidentCorrelations",
+        "title": "Incident Correlations",
         "install_mode": "rpm"
     }
 ]

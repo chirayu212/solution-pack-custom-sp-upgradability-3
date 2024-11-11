@@ -1,11 +1,11 @@
 [
     {
-        "name": "exchange",
-        "label": "Exchange",
+        "name": "fortigate-firewall",
+        "label": "Fortinet FortiGate",
         "category": [
-            "Email Server"
+            "Firewall and Network Protection"
         ],
-        "description": "The Exchange connector provides a robust, platform-independent, and simple interface for communicating with Microsoft Exchange 2007-2016 Server or Office 365 using Exchange Web Services (EWS).",
+        "description": "Fortinet FortiGate enterprise firewall provide high performance, consolidated advanced security and granular visibility for broad protection across the entire digital attack surface.",
         "publisher": "Fortinet",
         "operation_roles": [],
         "configurations": [],
